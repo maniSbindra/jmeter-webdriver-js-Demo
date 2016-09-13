@@ -15,7 +15,7 @@
 
 ## JavaScript Mythbuster presentation link (By the likes of Kyle Simpson etc) : [https://docs.google.com/present/view?id=dq52zrp_22f2rx5zjz&pli=1](https://docs.google.com/present/view?id=dq52zrp_22f2rx5zjz&pli=1 )
 
-## string.concat vs array.join repo : [https://github.com/maniSbindra/js-jmeter-docker-demo](https://github.com/maniSbindra/js-jmeter-docker-demo)
+## string.concat vs array.join repo : [https://github.com/maniSbindra/js-jmeter-docker-demo](https://github.com/maniSbindra/js-jmeter-docker-demo) . The JMeter files for the local and cloud based test (deployed to docker containers) are JMeterjavascriptMythBuster-Local.jmx and JmeterJavascriptMythBuster_CloudBased.jmx respectively
 
 
 
