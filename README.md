@@ -11,7 +11,8 @@
 ## Installation
 * npm install followed by npm start will start the chirp app 
 * To execute locally install a local mongodb instance.
-* NODE_ENV environment variable can be set to development when executing locally 
+* NODE_ENV environment variable can be set to development when executing locally
+* Demos shown using JMeter 3, The firefox version used for the webdiver tests was 31.06 (Firefox Setup 31.0b6), and selenium for JMeter jars were version 2.47.0 
 
 ## JavaScript Mythbuster presentation link (By the likes of Kyle Simpson etc) : [https://docs.google.com/present/view?id=dq52zrp_22f2rx5zjz&pli=1](https://docs.google.com/present/view?id=dq52zrp_22f2rx5zjz&pli=1 )
 
